@@ -6,5 +6,5 @@ We propose a **Li**ghtweight **S**patio-**T**emporal  **E**nhancement **N**ested
 
 
 <p align="center">
-<img src="https://github.com/fchest/ListenNet/blob/main/OVERVIEW.png" width="75%">
+<img src="https://github.com/fchest/ListenNet/blob/main/OVERVIEW.png">
 </p>
