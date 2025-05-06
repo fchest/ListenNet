@@ -14,7 +14,7 @@ We propose a **Li**ghtweight **S**patio-**T**emporal  **E**nhancement **N**ested
 * The public [KUL dataset](https://zenodo.org/records/4004271), [DTU dataset](https://zenodo.org/record/1199011#.Yx6eHKRBxPa) and [AVED dataset](https://iiphci.ahu.edu.cn/toAuditoryAttention) are used in this paper.
 
 # Requirements
-+ Python 3.10.13 \
++ Python 3.10 \
 `pip install -r requirements.txt`
 
 # Run
