@@ -1,4 +1,4 @@
-# ListenNet
+# Code for ListenNet
 [PyTorch](https://pytorch.org/) implementation on: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection.
 
 ## Introduction
