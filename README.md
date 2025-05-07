@@ -18,5 +18,5 @@ We propose a **Li**ghtweight **S**patio-**T**emporal  **E**nhancement **N**ested
 `pip install -r requirements.txt`
 
 # Run
-* Using dep/main.py to train and test the model in dep_dependet seeting
-* Using indep/main.py to train and test the model in dep_independet seeting
+* Using dep/main.py to train and test the model in sub_dependent(within-trial 8:1:1) setting
+* Using indep/main.py to train and test the model in sub_independet(Leave-one-subject-out) setting
