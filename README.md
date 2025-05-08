@@ -20,4 +20,4 @@ Cunhang Fan, Xiaoke Yang, Hongyu Zhang, Ying Chen, Lu Li, Jian Zhou, Zhao Lv.Lis
 
 # Run
 * Using dep/main.py to train and test the model in sub_dependent(within-trial 8:1:1) setting
-* Using indep/main.py to train and test the model in sub_independet(Leave-one-subject-out) setting
+* Using indep/main.py to train and test the model in sub_independent(Leave-one-subject-out) setting
