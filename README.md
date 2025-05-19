@@ -21,3 +21,13 @@ Cunhang Fan, Xiaoke Yang, Hongyu Zhang, Ying Chen, Lu Li, Jian Zhou, Zhao Lv.Lis
 # Run
 * Using dep/main.py to train and test the model in sub_dependent(within-trial 8:1:1) setting
 * Using indep/main.py to train and test the model in sub_independent(Leave-one-subject-out) setting
+
+* If you find the paper or this repo useful, please cite
+```
+@article{fan2025listennet,
+  title={ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection},
+  author={Fan, Cunhang and Yang, Xiaoke and Zhang, Hongyu and Chen, Ying and Li, Lu and Zhou, Jian and Lv, Zhao},
+  journal={arXiv preprint arXiv:2505.10348},
+  year={2025}
+}
+```
